@@ -121,9 +121,6 @@ responsible-ai-distracted-driving-audit/
 │   └── fairness_audit_summary.png
 ├── data/
 │   └── README.md
-└── outputs/
-    ├── sample_predictions/
-    └── gradcam_examples/
 ```
 
 ## Data Note
