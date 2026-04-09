@@ -120,7 +120,7 @@ responsible-ai-distracted-driving-audit/
 │   ├── gradcam_nonwhite_examples.png
 │   └── fairness_audit_summary.png
 ├── data/
-│   └── README.md
+    └── README.md
 ```
 
 ## Data Note
