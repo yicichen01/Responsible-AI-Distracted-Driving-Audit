@@ -24,6 +24,7 @@ data/
 │   ├── c8/
 │   └── c9/
 └── test/
+```
 
 ## Subgroup audit setup
 
