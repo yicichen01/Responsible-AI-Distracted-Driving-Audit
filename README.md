@@ -124,6 +124,7 @@ responsible-ai-distracted-driving-audit/
 └── outputs/
     ├── sample_predictions/
     └── gradcam_examples/
+```
 
 ## Data Note
 
